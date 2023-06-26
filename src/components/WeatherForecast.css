@@ -21,3 +21,12 @@ align-items: center;
     display: flex;
     gap: 16px;
 }
+
+.cellStyles  {
+    padding: '10px';
+    font-size: 18px;
+    border: 1px solid #ddd;
+    text-align: center;
+    color: #fff;
+  
+  };

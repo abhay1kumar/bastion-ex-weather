@@ -18,17 +18,3 @@ p{
   padding: 0;
 }
 
-.cellStyles  {
-  padding: '10px';
-  font-size: 18px;
-  border: 1px solid #ddd;
-  text-align: center;
-  color: #fff;
-
-};
-.headStyle{
-  padding: '10px';
-  font-size: 18px;
-  border: 1px solid #ddd;
-  text-align: center
-};
