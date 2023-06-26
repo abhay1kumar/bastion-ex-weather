@@ -1,0 +1,23 @@
+.weatherInfo{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.weatherCard{
+display: flex;
+flex-direction: column;
+gap: 2px;
+justify-content: center;
+align-items: center;
+}
+.WeaterInformation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
+.hourlyReport{
+    display: flex;
+    gap: 16px;
+}
