@@ -16,7 +16,7 @@ const Weather = () => {
     };
     try {
       let response = await axios(config);
-      console.log(response);
+      // console.log(response);
       setWeatherData(response.data);
     } catch (error) {
       console.log(error);
